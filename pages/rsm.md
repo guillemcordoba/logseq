@@ -2,7 +2,6 @@
 title: rsm
 ---
 
-## Todo:
 ### Comment into the simplified version what do every DB and workflow do
 ### Core concepts glossary: https://miro.com/app/board/o9J_ki6nl74=/
 ## Gotchas
