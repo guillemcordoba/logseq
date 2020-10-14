@@ -21,5 +21,10 @@ title: commoning
 ### Experiment -> open membrane
 ### Reputation -> IOU between trusted parties
 ### Staking currency for resource liabilities
+## Jakub
+### Odissey
+#### Verifiable credentials with SSI in blockchain
+#### Interoperability?
+#### Group
 ## Books
 ### Free fair and alive
