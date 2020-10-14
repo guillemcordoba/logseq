@@ -11,6 +11,7 @@ title: rsm
 ### Core concepts glossary: https://miro.com/app/board/o9J_ki6nl74=/
 ## Gotchas
 ### Workflows
-#### Incoming DHT ops -> Integration Limbo DB & Validation Limbo -> Validation flows -> Integrate DHT Ops -> Integrated DHT Ops
+#### Incoming DHT ops -> Validation Limbo -> Validation flows -> Integration Limbo DB -> Integrate DHT Ops -> Integrated DHT Ops DB
 #### Init is called on first zome function after genesis has completed
-####
+### All stores here: https://github.com/holochain/holochain/blob/2c745dd28320c0d5e2c490bec0baa3db37fa58f2/crates/state/src/db.rs
+###
