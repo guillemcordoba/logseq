@@ -14,6 +14,8 @@ title: rol
 ## Monstres
 ### Globins
 ### Wirms (Harpia)
+#### 36 Fisic Defensa
+#### 16 Magic Defense
 ## Locations
 ### Poble dels innocents
 #### Cremat ->
