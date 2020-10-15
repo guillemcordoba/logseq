@@ -6,8 +6,17 @@ title: rol
 ### Verd:
 ### Vermells: seniors
 ### Liles: màxim top
-## Elfs
-### Pobres
+## Races
+### Elfs
+#### Pobres
+### Nans
+#### Se senten explotats
+## Monstres
+### Globins
+### Wirms (Harpia)
+## Locations
+### Poble dels innocents
+#### Cremat ->
 ## 8/10/20
 ### Circ -> cavaller. Ordre de cavalleria -> protegeixen la raça humana des que la heroina els va salvar
 El cavaller ens ha agafat pq ens veu potencial
@@ -28,8 +37,9 @@ Dormim a la capital
 ## 17/10/20
 ### Remombori a la capital
 ### Atac a la frontera -> cavallers demanen ajuda -> s'ha d'anar a la capella
-### Nans se senten explotats
 ### [[Desert de Naha]] està sent atacat (trols gegants, dracs antics) -> tothom a preparar-se
 ### [[Kirk]] se'n va, nosaltres ens quedem
 ### Grup de 3 colegues, juniors d'un company del Kirk
 ### Tauler d'anuncis
+### Petjades cap al cau de les harpies -> 6 harpies
+###
