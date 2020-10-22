@@ -19,6 +19,9 @@ title: rol
 ## Locations
 ### Poble dels innocents
 #### Cremat ->
+### Esglèsia
+#### Font -> ressurrect
+#### Sacerdotissa ajuda
 ## 8/10/20
 ### Circ -> cavaller. Ordre de cavalleria -> protegeixen la raça humana des que la heroina els va salvar
 El cavaller ens ha agafat pq ens veu potencial
@@ -54,5 +57,13 @@ Dormim a la capital
 #### 5g costa l'entrada
 ### Dos homes se'n van
 ### Portes secretes
-### Font ->
-####
+### Prova dels grocs
+#### 5 portes
+##### Verd
+##### Groc -> espectre noia
+###### Per matar monstres
+###### Adri
+##### Vermells
+##### Lila
+##### Blava
+###
