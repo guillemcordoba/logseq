@@ -45,3 +45,14 @@ Dormim a la capital
 ### Tauler d'anuncis
 ### Petjades cap al cau de les harpies -> 6 harpies
 ###
+## 22/10/20
+### Sacerdot boles ->sacerdot de ritu d'iniciació
+#### Missió
+#### Cada level té una prova
+#### Les boles les porten a l'Esglèsia i les trenquen allà
+### Arena -> espectacle
+#### 5g costa l'entrada
+### Dos homes se'n van
+### Portes secretes
+### Font ->
+####
