@@ -4,7 +4,9 @@ title: rol
 
 ## Categories
 ### Verd:
+### Grocs
 ### Vermells: seniors
+### Blaus
 ### Liles: màxim top
 ## Races
 ### Elfs
@@ -66,4 +68,5 @@ Dormim a la capital
 ##### Vermells
 ##### Lila
 ##### Blava
-###
+### Missió
+####
