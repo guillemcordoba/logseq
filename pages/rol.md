@@ -21,9 +21,14 @@ title: rol
 ## Locations
 ### Poble dels innocents
 #### Cremat ->
-### Esglèsia
-#### Font -> ressurrect
-#### Sacerdotissa ajuda
+### Capital
+#### Esglèsia
+##### Font -> ressurrect
+##### Sacerdotissa ajuda
+### Castell del nord
+#### Cavaller -> fort
+#### Princep
+#### Menys discriminació
 ## 8/10/20
 ### Circ -> cavaller. Ordre de cavalleria -> protegeixen la raça humana des que la heroina els va salvar
 El cavaller ens ha agafat pq ens veu potencial
@@ -68,5 +73,11 @@ Dormim a la capital
 ##### Vermells
 ##### Lila
 ##### Blava
-### Missió
-####
+### Missió boda
+#### Gremi -> defensa a tothom que sigui humà
+#### La princesa no té modals adequats -> insegura
+##### Es una campesina -> es van enamorar, prioritzar
+#### Races
+#### Estan molt tranquils
+#### No tenen gent molt forta
+#### Relació normal amb la capital
