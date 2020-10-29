@@ -44,6 +44,8 @@ title: rol
 #### Menys discriminació
 ### Muntanyes aquoses
 #### Erudit
+#### Boira pa tos laos
+####
 ## 8/10/20
 ### Circ -> cavaller. Ordre de cavalleria -> protegeixen la raça humana des que la heroina els va salvar
 El cavaller ens ha agafat pq ens veu potencial
