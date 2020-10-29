@@ -6,8 +6,16 @@ title: rol
 ### Verd:
 ### Grocs
 ### Vermells: seniors
+### Liles
 ### Blaus
-### Liles: màxim top
+## Personatges
+### Nia
+#### Capa lila
+#### Desapareix
+### Kirk
+#### Capa vermella
+### Malu
+#### Sacerdot
 ## Races
 ### Elfs
 #### Pobres
@@ -18,6 +26,9 @@ title: rol
 ### Wirms (Harpia)
 #### 36 Fisic Defensa
 #### 16 Magic Defense
+### Llops elementals
+#### Super heavys -> bola lila
+#### En principi només són 4, nosaltres vam veure 5
 ## Locations
 ### Poble dels innocents
 #### Cremat ->
@@ -81,3 +92,8 @@ Dormim a la capital
 #### Estan molt tranquils
 #### No tenen gent molt forta
 #### Relació normal amb la capital
+## 29/10/20
+### Nia (i altres que no veiem) va a parar els llops
+### Totes les races ens agraeixen que haguem rescatat el poble
+### Festa de celebració per la lluita del Desert de Daha
+#### Drac mort
