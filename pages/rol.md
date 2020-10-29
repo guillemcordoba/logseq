@@ -29,6 +29,8 @@ title: rol
 ### Llops elementals
 #### Super heavys -> bola lila
 #### En principi només són 4, nosaltres vam veure 5
+### Trols
+#### Van matar l'equip similar als nostres
 ## Locations
 ### Poble dels innocents
 #### Cremat ->
@@ -99,3 +101,4 @@ Dormim a la capital
 ### Totes les races ens agraeixen que haguem rescatat el poble
 ### Festa de celebració per la lluita del Desert de Daha
 #### Drac mort
+### Anem a les muntanyes aquoses
