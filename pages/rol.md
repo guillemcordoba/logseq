@@ -129,3 +129,4 @@ Dormim a la capital
 ####### 1 cap a un crater
 ######## Al mig -> aigua que et torna loco
 ##### Herreros morts -> picos
+##### Els locos beuen aigua -> no els hi passa res
