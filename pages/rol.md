@@ -11,7 +11,8 @@ title: rol
 ## Spells
 ### Reactius
 ### Instantanis
-### Buff -> no gasten
+### Buff -> no gasten acció
+### Buff permanent -> gasten acció
 ## Personatges
 ### Nia
 #### Capa lila
