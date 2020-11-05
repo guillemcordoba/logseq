@@ -73,15 +73,6 @@ Dormim a la capital
 #### Tauler d'anuncis
 #### Petjades cap al cau de les harpies -> 6 harpies
 ####
-### 29/10/20
-#### Nia (i altres que no veiem) va a parar els llops
-#### Totes les races ens agraeixen que haguem rescatat el poble
-#### Festa de celebració per la lluita del Desert de Daha
-##### Drac mort
-#### Anem a les muntanyes aquoses
-#### Prova
-##### Equilibri entre blanc i negre
-####
 ### 22/10/20
 #### Sacerdot boles ->sacerdot de ritu d'iniciació
 ##### Missió
@@ -108,5 +99,14 @@ Dormim a la capital
 ##### Estan molt tranquils
 ##### No tenen gent molt forta
 ##### Relació normal amb la capital
+### 29/10/20
+#### Nia (i altres que no veiem) va a parar els llops
+#### Totes les races ens agraeixen que haguem rescatat el poble
+#### Festa de celebració per la lluita del Desert de Daha
+##### Drac mort
+#### Anem a les muntanyes aquoses
+#### Prova
+##### Equilibri entre blanc i negre
+####
 ## 5/11/20
 ###
