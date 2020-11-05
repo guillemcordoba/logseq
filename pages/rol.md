@@ -109,5 +109,4 @@ Dormim a la capital
 ##### Equilibri entre blanc i negre
 ####
 ### 5/11/20
-#### Sacerdot
-#####
+##### Malu ens diu
