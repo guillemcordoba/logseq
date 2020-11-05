@@ -120,6 +120,6 @@ Dormim a la capital
 ##### Malu ens diu
 ##### Kirk han neutralitzat els llops
 ##### Anem cap a la ciutat del desert
-##### Ens trobem a 20 refugiats del poble del Kirsji
+##### Ens trobem a 20 refugiats del poble del Keiji
 ###### Atacats per humans
 ###### 40 persones en total al poble
