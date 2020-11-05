@@ -46,6 +46,7 @@ title: rol
 #### Erudit
 #### Boira pa tos laos
 ####
+### Ciutat deserta
 ## Dies
 ### 8/10/20
 #### Circ -> cavaller. Ordre de cavalleria -> protegeixen la raça humana des que la heroina els va salvar
