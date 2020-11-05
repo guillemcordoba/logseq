@@ -8,6 +8,10 @@ title: rol
 ### Vermells: seniors
 ### Liles
 ### Blaus
+## Spells
+### Reactius
+### Instantanis
+### Buff -> no gasten
 ## Personatges
 ### Nia
 #### Capa lila
