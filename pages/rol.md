@@ -64,15 +64,15 @@ Font -> reviu herois, mentres un segueixi viu, només funciona reviure si estàs
 Els monstres fan drop d'unes esferes que es poden intercanviar per esferes
 Camp d'entrenament una hora fora de la ciutat
 Dormim a la capital
-## 17/10/20
-### Remombori a la capital
-### Atac a la frontera -> cavallers demanen ajuda -> s'ha d'anar a la capella
-### [[Desert de Naha]] està sent atacat (trols gegants, dracs antics) -> tothom a preparar-se
-### [[Kirk]] se'n va, nosaltres ens quedem
-### Grup de 3 colegues, juniors d'un company del Kirk
-### Tauler d'anuncis
-### Petjades cap al cau de les harpies -> 6 harpies
-###
+### 17/10/20
+#### Remombori a la capital
+#### Atac a la frontera -> cavallers demanen ajuda -> s'ha d'anar a la capella
+#### [[Desert de Naha]] està sent atacat (trols gegants, dracs antics) -> tothom a preparar-se
+#### [[Kirk]] se'n va, nosaltres ens quedem
+#### Grup de 3 colegues, juniors d'un company del Kirk
+#### Tauler d'anuncis
+#### Petjades cap al cau de les harpies -> 6 harpies
+####
 ## 22/10/20
 ### Sacerdot boles ->sacerdot de ritu d'iniciació
 #### Missió
