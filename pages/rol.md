@@ -73,32 +73,32 @@ Dormim a la capital
 #### Tauler d'anuncis
 #### Petjades cap al cau de les harpies -> 6 harpies
 ####
-## 22/10/20
-### Sacerdot boles ->sacerdot de ritu d'iniciació
-#### Missió
-#### Cada level té una prova
-#### Les boles les porten a l'Esglèsia i les trenquen allà
-### Arena -> espectacle
-#### 5g costa l'entrada
-### Dos homes se'n van
-### Portes secretes
-### Prova dels grocs
-#### 5 portes
-##### Verd
-##### Groc -> espectre noia
-###### Per matar monstres
-###### Adri
-##### Vermells
-##### Lila
-##### Blava
-### Missió boda
-#### Gremi -> defensa a tothom que sigui humà
-#### La princesa no té modals adequats -> insegura
-##### Es una campesina -> es van enamorar, prioritzar
-#### Races
-#### Estan molt tranquils
-#### No tenen gent molt forta
-#### Relació normal amb la capital
+### 22/10/20
+#### Sacerdot boles ->sacerdot de ritu d'iniciació
+##### Missió
+##### Cada level té una prova
+##### Les boles les porten a l'Esglèsia i les trenquen allà
+#### Arena -> espectacle
+##### 5g costa l'entrada
+#### Dos homes se'n van
+#### Portes secretes
+#### Prova dels grocs
+##### 5 portes
+###### Verd
+###### Groc -> espectre noia
+####### Per matar monstres
+####### Adri
+###### Vermells
+###### Lila
+###### Blava
+#### Missió boda
+##### Gremi -> defensa a tothom que sigui humà
+##### La princesa no té modals adequats -> insegura
+###### Es una campesina -> es van enamorar, prioritzar
+##### Races
+##### Estan molt tranquils
+##### No tenen gent molt forta
+##### Relació normal amb la capital
 ## 29/10/20
 ### Nia (i altres que no veiem) va a parar els llops
 ### Totes les races ens agraeixen que haguem rescatat el poble
