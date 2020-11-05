@@ -118,4 +118,5 @@ Dormim a la capital
 ### 5/11/20
 ##### Malu ens diu
 ##### Kirk han neutralitzat els llops
+##### Anem cap a la ciutat del desert
 #####
