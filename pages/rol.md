@@ -123,3 +123,7 @@ Dormim a la capital
 ##### Ens trobem a 20 refugiats del poble del Keiji
 ###### Atacats per humans
 ###### 40 persones en total al poble
+###### Anem al poble, no hi ha ningú
+###### 2 grups de petjades
+####### 1 cap al desert
+#######
