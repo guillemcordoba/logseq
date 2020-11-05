@@ -107,7 +107,7 @@ Dormim a la capital
 #### Anem a les muntanyes aquoses
 #### Prova
 ##### Equilibri entre blanc i negre
-####
+#### SOM VERMELLS
 ### 5/11/20
 ##### Malu ens diu
 ##### Kirk han neutralitzat els llops
