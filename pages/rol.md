@@ -47,8 +47,8 @@ title: rol
 #### Boira pa tos laos
 ####
 ## Dies
-## 8/10/20
-### Circ -> cavaller. Ordre de cavalleria -> protegeixen la raça humana des que la heroina els va salvar
+### 8/10/20
+#### Circ -> cavaller. Ordre de cavalleria -> protegeixen la raça humana des que la heroina els va salvar
 El cavaller ens ha agafat pq ens veu potencial
 Goblin -> BA: 12 AF: 10 LEVEL: 2, PD: 1
 Cavaller -> BA: , 
