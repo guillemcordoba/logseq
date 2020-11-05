@@ -53,7 +53,7 @@ title: rol
 ####
 ### Ciutat deserta
 #### 4 hores al sud de la capital
-#### Poble del Kirsji
+#### Poble del Keiji
 ## Dies
 ### 8/10/20
 #### Circ -> cavaller. Ordre de cavalleria -> protegeixen la raça humana des que la heroina els va salvar
