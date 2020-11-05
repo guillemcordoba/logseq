@@ -127,6 +127,6 @@ Dormim a la capital
 ###### 2 grups de petjades
 ####### 1 cap al desert
 ####### 1 cap a un crater
-######## Al mig -> aigua com la de
+######## Al mig -> aigua que et torna loco
 ########
 #######
