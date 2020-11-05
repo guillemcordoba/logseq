@@ -128,4 +128,4 @@ Dormim a la capital
 ####### 1 cap al desert
 ####### 1 cap a un crater
 ######## Al mig -> aigua que et torna loco
-#####
+##### Empresonem
