@@ -126,5 +126,6 @@ Dormim a la capital
 ###### Anem al poble, no hi ha ningú
 ###### 2 grups de petjades
 ####### 1 cap al desert
-####### 1 cap a la base
-########
+####### 1 cap a la
+######## Aigua com la de
+#######
