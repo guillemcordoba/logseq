@@ -131,4 +131,7 @@ Dormim a la capital
 ##### Herreros morts -> picos
 ##### Els locos beuen aigua -> no els hi passa res
 ### 13/11/20
-####
+#### Mercader que vam salvar dins la cova dels wyrms
+#### Traidors a la capital que s'havien rebel·lat -> molt alto rango
+#### Ens trobem a la mort
+##### La seva aura s'assembla a la dels llops i del wyrm
