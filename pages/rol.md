@@ -130,3 +130,5 @@ Dormim a la capital
 ######## Al mig -> aigua que et torna loco
 ##### Herreros morts -> picos
 ##### Els locos beuen aigua -> no els hi passa res
+### 13/11/20
+####
