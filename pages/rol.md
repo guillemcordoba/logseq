@@ -83,7 +83,6 @@ Dormim a la capital
 #### Grup de 3 colegues, juniors d'un company del Kirk
 #### Tauler d'anuncis
 #### Petjades cap al cau de les harpies -> 6 harpies
-####
 ### 22/10/20
 #### Sacerdot boles ->sacerdot de ritu d'iniciació
 ##### Missió
