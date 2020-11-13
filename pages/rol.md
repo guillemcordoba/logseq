@@ -21,6 +21,9 @@ title: rol
 #### Capa vermella
 ### Malu
 #### Sacerdot
+### Neeg
+#### Super fuerte
+#### Ens diu que
 ## Races
 ### Elfs
 #### Pobres
