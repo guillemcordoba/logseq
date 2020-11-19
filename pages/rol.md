@@ -50,7 +50,6 @@ title: rol
 ### Muntanyes aquoses
 #### Erudit
 #### Boira pa tos laos
-####
 ### Ciutat deserta
 #### 4 hores al sud de la capital
 #### Poble del Keiji
