@@ -21,9 +21,6 @@ title: rol
 #### Capa vermella
 ### Malu
 #### Sacerdot
-### Neeg
-#### Super fuerte
-#### Ens diu que
 ## Races
 ### Elfs
 #### Pobres
@@ -83,6 +80,7 @@ Dormim a la capital
 #### Grup de 3 colegues, juniors d'un company del Kirk
 #### Tauler d'anuncis
 #### Petjades cap al cau de les harpies -> 6 harpies
+####
 ### 22/10/20
 #### Sacerdot boles ->sacerdot de ritu d'iniciació
 ##### Missió
@@ -132,8 +130,3 @@ Dormim a la capital
 ######## Al mig -> aigua que et torna loco
 ##### Herreros morts -> picos
 ##### Els locos beuen aigua -> no els hi passa res
-### 13/11/20
-#### Mercader que vam salvar dins la cova dels wyrms
-#### Traidors a la capital que s'havien rebel·lat -> molt alto rango
-#### Ens trobem a la mort
-##### La seva aura s'assembla a la dels llops i del wyrm
