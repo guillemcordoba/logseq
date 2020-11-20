@@ -13,4 +13,6 @@ title: paradigms
 ## Flow
 ## Systems theory feedback loops
 ## Attention/Framing -> meaning crisis
-##
+## Yin/Yang
+## Adaptability vs efficiency
+## Stories
