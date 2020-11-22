@@ -26,5 +26,7 @@ title: frames
 ##### 4/10
 #### Exercise
 ##### 8/10
-####
-## Zoom in
+#### More present
+##### 3/10
+#### Less stress and work
+##### 7/10
