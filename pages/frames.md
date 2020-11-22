@@ -15,4 +15,16 @@ title: frames
 #### Future
 ##### Vision: open source module building
 ##### Anxiety for the pain and death
+### Meta goals
+#### More focus and flow state when working
+##### 8/10
+#### Build less castles in the air
+##### 6.5/10
+#### Less bullshit
+##### 3/10
+#### Better sleep
+##### 4/10
+#### Exercise
+##### 8/10
+####
 ## Zoom in
