@@ -13,7 +13,9 @@ title: frames
 ##### Trying to improve on my own process, feeling lost
 ##### Broken flows
 #### Future
-##### Vision: open source module building
+##### Vision:
+###### Open source module building
+######
 ##### Anxiety for the pain and death
 ### Meta goals
 #### More focus and flow state when working
