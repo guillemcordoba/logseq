@@ -17,6 +17,7 @@ title: presentation-ecologyhub
 #### Anonimato muy dificil
 #### Fuerte learning curve
 #### Self-hosting
+#### Real time
 ## Perfect use cases
 ## Projects being developed
 ## Resources
