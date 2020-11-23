@@ -7,3 +7,5 @@ title: presentation-ecologyhub
 ## Pros/Contras
 ## Perfect use cases
 ## Projects being developed
+## Resources
+##
