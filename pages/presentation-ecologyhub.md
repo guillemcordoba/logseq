@@ -12,6 +12,8 @@ title: presentation-ecologyhub
 ### Pros
 #### Scalable
 #### Free
+#### Private decentralized spaces
+#### Flexibility
 ### Contra
 #### DNA fork
 #### Anonimato muy dificil
